@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1> 𝐇𝐞𝐥𝐥𝐨 😃</h1>
+<h1> 𝐇𝐞𝐥𝐥𝐨 🌟</h1>
 
 🌱
 [![Linkedin Badge](https://img.shields.io/badge/-Heejin_Kim-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heejinkim0803/)](https://www.linkedin.com/in/heejinkim0803/) 
